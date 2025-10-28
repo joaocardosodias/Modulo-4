@@ -16,8 +16,8 @@ O programa foi escrito na IDE do Arduino e utiliza *delays* para controlar o tem
 ##  Lógica de Funcionamento
 O código segue o ciclo:
 1. Vermelho acende (parar) por 6 segundos.
-2. Amarelo acende (atenção) por 2 segundos.
-3. Verde acende (seguir) por 4 segundos.
+2. Verde acende (seguir) por 4 segundos.
+3. Amarelo acende (atenção) por 2 segundos.
 
 Depois, o ciclo reinicia, criando o efeito contínuo de um semáforo real.
 
