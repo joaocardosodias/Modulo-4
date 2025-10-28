@@ -75,4 +75,3 @@ void setup() {
 void loop() {
   semaforo->ciclo();
 }
-

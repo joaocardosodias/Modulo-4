@@ -4,7 +4,7 @@ O projeto tem como objetivo simular o funcionamento de um semáforo de trânsito
 
 A montagem foi realizada em protoboard, o que facilitou as conexões e testes. Os LEDs foram conectados a pinos digitais do Arduino, cada um com um resistor em série, e o GND comum foi ligado ao barramento negativo da protoboard.
 
-## LINK:https://drive.google.com/file/d/1qOfA2rMfBf7iG56MkjTi7T8ilZyuOoAO/view?usp=sharing
+## LINK:https://drive.google.com/file/d/10yBEtrI5cNgt70-mNyU6-l2IhCH8CzB6/view?usp=sharing
 
 ##  Montagem e Conexões
 - **LED vermelho**: conectado ao pino digital 8 do Arduino, em série com um resistor de 220 Ω até o GND.
