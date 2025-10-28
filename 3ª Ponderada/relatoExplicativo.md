@@ -8,8 +8,8 @@ A montagem foi realizada em protoboard, o que facilitou as conexões e testes. O
 
 ##  Montagem e Conexões
 - **LED vermelho**: conectado ao pino digital 8 do Arduino, em série com um resistor de 220 Ω até o GND.
-- **LED amarelo**: conectado ao pino digital 9, também com resistor de 220 Ω.
-- **LED verde**: conectado ao pino digital 10, com resistor de 220 Ω.
+- **LED amarelo**: conectado ao pino digital 7, também com resistor de 220 Ω.
+- **LED verde**: conectado ao pino digital 9, com resistor de 220 Ω.
 - **GND do Arduino**: ligado à linha negativa da protoboard (terra comum para todos os LEDs).
 - **A porta USB**: foi usada para alimentar a placa e o circuito com 5V.
 
